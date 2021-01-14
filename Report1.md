@@ -7,8 +7,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-1. [https://github.com/mona52/Rep1_java/issues/1#issue-783685425](url)
-1. [https://github.com/mona52/Rep1_java/issues/2#issue-783691933](url)
+1. Валидные лицензионные ключи не прошли валидацию [https://github.com/mona52/Rep1_java/issues/1#issue-783685425](url)
+1. Невалидные лицензионные ключи прошли валидацию [https://github.com/mona52/Rep1_java/issues/2#issue-783691933](url) 
 
 ## **Описание процесса тестирования**
 В процессе тестирования использовались следующие артефакты:
